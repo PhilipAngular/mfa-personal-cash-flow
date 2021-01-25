@@ -1,6 +1,6 @@
-# Application Name
+# Personal Cash Flow
 
-![Standard Repository](https://repository-images.githubusercontent.com/332821740/d60c9480-5f16-11eb-9b1e-827f2ee1b28c)
+![Standard Repository](https://repository-images.githubusercontent.com/332830664/4a493700-5f1b-11eb-90a6-a1d7e00262fa)
 
 ## **Project Status:** ⏰ Waiting for the start ⏰
 <!-- ## **Project Status:** 🔧 Under construction... 🔨 -->
@@ -10,13 +10,13 @@
 
 **PORTUGUÊS:** caso você queira ver essa documentação em Português-Brasil, favor acessar [README-pt-br.md](README-pt-br.md).
 
-[![GitHub license](https://img.shields.io/github/license/PhilipAngular/standard-repository?color=96C40F)](LICENSE)
+[![GitHub license](https://img.shields.io/github/license/PhilipAngular/mfa-personal-cash-flow?color=96C40F)](LICENSE)
 
 ## Summary
 
 - [About the application](#-about-the-application)
-    <!-- - [Features](#-features)
-    - [Application Demo](#-application-demo)
+- [Features](#-features)
+    <!-- - [Application Demo](#-application-demo)
     - [Technologies chosen](#-technologies-chosen)
     - [Prerequisites](#-prerequisites)
         - [Installations](#-installations)
@@ -32,13 +32,22 @@
 
 ## 💻 About the application
 
-<!-- Brief description of the application. -->
+The purpose of this application is to be able to make monthly control of personal and couple expenses and income.
 
-<!-- ## 🎯 Features
+## 🎯 Features
 
-- [x] User registration
-- [x] Customer registration
-- [ ] Product registration -->
+- [ ] Login
+- [ ] Logout
+- [ ] Users registration
+- [ ] Expense Registration
+- [ ] Recipes Registration
+- [ ] Allow to register recurring expenses (per day, week, month, year)
+- [ ] Allow to mark expenses that have already been paid
+- [ ] Allow choosing the payer for each couple's expenses
+- [ ] Calculate percentage earned by each party against the total revenue of all
+- [ ] Allow to choose which expenses of the couple will be paid half and half and which will be paid by the percentage calculated in the previous item
+- [ ] Calculate how much has already been paid during the month by each
+- [ ] Calculate how much you owe each other
 
 <!-- ## 🎮 Application Demo
 

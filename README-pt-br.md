@@ -1,18 +1,18 @@
 # Nome Do Aplicativo
 
-![Standard Repository](https://repository-images.githubusercontent.com/332821740/d60c9480-5f16-11eb-9b1e-827f2ee1b28c)
+![Standard Repository](https://repository-images.githubusercontent.com/332830664/4a493700-5f1b-11eb-90a6-a1d7e00262fa)
 
 ## **Status do Projeto:** ⏰ Aguardando o início ⏰
 <!-- ## **Status do Projeto:** 🔧 Em construção... 🔨 -->
 <!-- ## **Status do Projeto:** ✅ Finalizado ✅ -->
 
-[![GitHub license](https://img.shields.io/github/license/PhilipAngular/standard-repository?color=96C40F)](LICENSE)
+[![GitHub license](https://img.shields.io/github/license/PhilipAngular/mfa-personal-cash-flow?color=96C40F)](LICENSE)
 
 ## Sumário
 
 - [Sobre a aplicação](#-sobre-a-aplicação)
-    <!-- - [Features](#-features)
-    - [Demonstração da aplicação](#-demonstração-da-aplicação)
+- [Features](#-features)
+    <!-- - [Demonstração da aplicação](#-demonstração-da-aplicação)
     - [Tecnologias escolhidas](#-tecnologias-escolhidas)
     - [Pré-requisitos](#-pré-requisitos)
     - [Instalações](#-instalações)
@@ -28,13 +28,22 @@
 
 ## 💻 Sobre a aplicação
 
-<!-- Breve descrição da aplicação. -->
+O objetivo deste aplicativo é poder fazer o controle mensal das despesas e receitas pessoais e do casal.
 
-<!-- ## 🎯 Features
+## 🎯 Features
 
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos -->
+- [ ] Login
+- [ ] Logout
+- [ ] Cadastro de usuários
+- [ ] Cadastro de despesas
+- [ ] Cadastro de receitas
+- [ ] Permitir cadastrar despesas recorrentes (por dia, semana, mês, ano)
+- [ ] Permitir marcar as despesas que já foram pagas
+- [ ] Permitir escolher o pagador de cada despesa do casal
+- [ ] Calcular percentual ganho por cada parte perante a receita total de todos
+- [ ] Permitir escolher quais despesas do casal serão pagas meio-a-meio e quais serão pagos pela porcentagem calculada no item anterior
+- [ ] Calcular o quanto já foi pago durante o mês por cada um
+- [ ] Calcular o quanto um deve ao outro
 
 <!-- ## 🎮 Demonstração da aplicação
 
