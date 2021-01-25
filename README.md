@@ -12,7 +12,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/PhilipAngular/mfa-personal-cash-flow?color=96C40F)](LICENSE)
 
-## Summary
+## Summary 
 
 - [About the application](#-about-the-application)
 - [Features](#-features)
