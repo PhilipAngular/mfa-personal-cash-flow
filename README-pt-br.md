@@ -1,9 +1,8 @@
-# Nome Do Aplicativo
+# Personal Cash Flow
 
 ![Standard Repository](https://repository-images.githubusercontent.com/332830664/4a493700-5f1b-11eb-90a6-a1d7e00262fa)
 
-## **Status do Projeto:** ⏰ Aguardando o início ⏰
-<!-- ## **Status do Projeto:** 🔧 Em construção... 🔨 -->
+## **Status do Projeto:** 🔧 Em construção... 🔨
 <!-- ## **Status do Projeto:** ✅ Finalizado ✅ -->
 
 **ENGLISH:** if you want to see this documentation in English, please access [README.md](README.md).

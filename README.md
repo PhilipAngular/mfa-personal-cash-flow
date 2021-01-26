@@ -2,8 +2,7 @@
 
 ![Standard Repository](https://repository-images.githubusercontent.com/332830664/4a493700-5f1b-11eb-90a6-a1d7e00262fa)
 
-## **Project Status:** ⏰ Waiting for the start ⏰
-<!-- ## **Project Status:** 🔧 Under construction... 🔨 -->
+## **Project Status:** 🔧 Under construction... 🔨
 <!-- ## **Project Status:** ✅ Finished ✅ -->
 
 **ENGLISH:** if you want to see this documentation in Brazil-Portuguese, please access [README-pt-br.md](README-pt-br.md).
